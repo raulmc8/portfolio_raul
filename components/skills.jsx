@@ -15,7 +15,7 @@ const Skills = () => {
                 <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6 md:divide-x">
                     <div className="p-4 md:w-1/3 flex flex-col text-center items-center w-full">
                         <div className="text-yellow-500 mb-5 flex-shrink-0">
-                            <i className="fab fa-react bg-yellow-100 rounded-full p-3.5 "></i>
+                        <img src="/react.png" alt="" className="fab fa-node bg-yellow-100 rounded-full px-2 py-4 text-6xl" />
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-gray-900 text-lg title-font font-medium mb-3" >Front end</h2>
@@ -25,8 +25,9 @@ const Skills = () => {
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 flex flex-col text-center items-center w-full">
-                        <div class="text-yellow-500 mb-5 flex-shrink-0">
-                            <i className="fab fa-node bg-yellow-100 rounded-full px-2 py-4 text-6xl"></i>
+                        <div className="text-yellow-500 mb-5 flex-shrink-0">
+                            <img src="/piton-2.png" alt="" className="fab fa-node bg-yellow-100 rounded-full px-2 py-4 text-6xl" />
+                            
                         </div>
                         <div className="flex-grow">
                             <h2 className="text-gray-900 text-lg title-font font-medium mb-3" >Back End</h2>

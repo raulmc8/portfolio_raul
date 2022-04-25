@@ -34,7 +34,9 @@ const Portfolio = () => {
                             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Category</h2>
                             <h2 className="title-font text-lg font-medium text-gray-900 mb-3">Coca-cola Home Page</h2>
                             <p className="leading-relaxed mb-3">This is a landign page for the coca-cola company</p>
-
+                            <div className="flex items-center flex-wrap ">
+                            <a href="https://amazing-buttercream-cbd15e.netlify.app/index.html#nosotros">Site</a>
+                            </div>
                         </div>
                     </div>
                 </div>
