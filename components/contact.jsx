@@ -12,7 +12,7 @@ const Contact = () =>{
         </div>
        <div className="container mx-auto flex sm:flex-nowrap flex-wrap">
        <div className="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.720594209537!2d-93.06833958511233!3d18.176780687610123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d053ed56abd%3A0xeb327e84355f7537!2s5%20de%20Mayo%2C%2086200%20Jalpa%20de%20M%C3%A9ndez%2C%20Tab.!5e0!3m2!1ses!2smx!4v1650582343412!5m2!1ses!2smx" width="600" height="450" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.720594209537!2d-93.06833958511233!3d18.176780687610123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d053ed56abd%3A0xeb327e84355f7537!2s5%20de%20Mayo%2C%2086200%20Jalpa%20de%20M%C3%A9ndez%2C%20Tab.!5e0!3m2!1ses!2smx!4v1650582343412!5m2!1ses!2smx" width="600" height="450" style={{border:0}}  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
        <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
            <div className="lg:w-1/2 px-6">
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs"> Address</h2>
