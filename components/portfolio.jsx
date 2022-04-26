@@ -23,6 +23,9 @@ const Portfolio = () => {
                                 <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Category</h2>
                                 <h2 className="title-font text-lg font-medium text-gray-900 mb-3">Invitation</h2>
                                 <p className="leading-relaxed mb-3">A simple landing page for an invitation for a wedding </p>
+                                <div className="flex items-center flex-wrap ">
+                            <a href="https://radiant-biscotti-5f0b9d.netlify.app">Site</a>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -47,7 +50,9 @@ const Portfolio = () => {
                             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Category</h2>
                             <h2 className="title-font text-lg font-medium text-gray-900 mb-3">Encript message</h2>
                             <p className="leading-relaxed mb-3">A page that return a encrypt message</p>
-
+                            <div className="flex items-center flex-wrap ">
+                            <a href="https://spiffy-centaur-6fc135.netlify.app">Site</a>
+                            </div>
                         </div>
 
                     </div>
